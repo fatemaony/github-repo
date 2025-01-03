@@ -2,8 +2,9 @@ div{
   background-color: burlywood;
   padding: 10px;
   text-align: justify;
+  margin: 5px;
 }
 h1{
-  color: aqua;
+  color: rgb(15, 91, 91);
   font-style: italic;
 }
